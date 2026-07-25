@@ -1,4 +1,4 @@
-# ScanServe
+# Pangat
    
    Restaurant QR Ordering System — Desktop App
    
